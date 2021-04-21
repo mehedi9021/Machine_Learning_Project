@@ -10,7 +10,7 @@ c. Grid X : the number of cells in the horizontal direction.<br>
 d. Grid Y : the number of cells in the vertical direction.<br>
 The model built is trained with the faces with tag given to them, and later on, the machine is given a test data and machine decides the correct label for it.
 
-Requirements:<br>
+**Requirements:**<br>
 Python<br>
 OpenCV<br>
 Numpy<br>
