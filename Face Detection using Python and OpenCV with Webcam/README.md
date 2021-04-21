@@ -1,7 +1,7 @@
 # Face Detection using Python and OpenCV with Webcam
 <p align="justify">This project uses LBPH (Local Binary Patterns Histograms) Algorithm to detect faces. It labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number.
 
-Approach/Algorithms used:
+Approach/Algorithms used:****
 
 LBPH uses 4 parameters :<br>
 a. Radius: the radius is used to build the circular local binary pattern and represents the radius around the central pixel.<br>
